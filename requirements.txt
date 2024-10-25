@@ -1,0 +1,3 @@
+dspy-ai==2.5.16
+langfuse==2.52.2
+litellm==1.49.1
